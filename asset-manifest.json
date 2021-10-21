@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.343d501d.chunk.css",
+    "main.js": "/static/js/main.b3d90407.chunk.js",
+    "main.js.map": "/static/js/main.b3d90407.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bb238295.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bb238295.js.map",
+    "static/js/2.177ad242.chunk.js": "/static/js/2.177ad242.chunk.js",
+    "static/js/2.177ad242.chunk.js.map": "/static/js/2.177ad242.chunk.js.map",
+    "static/js/3.ce092e0e.chunk.js": "/static/js/3.ce092e0e.chunk.js",
+    "static/js/3.ce092e0e.chunk.js.map": "/static/js/3.ce092e0e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.343d501d.chunk.css.map": "/static/css/main.343d501d.chunk.css.map",
+    "static/js/2.177ad242.chunk.js.LICENSE.txt": "/static/js/2.177ad242.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/large-christmas-decorations-shopping-mall.b71a4607.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb238295.js",
+    "static/js/2.177ad242.chunk.js",
+    "static/css/main.343d501d.chunk.css",
+    "static/js/main.b3d90407.chunk.js"
+  ]
+}
